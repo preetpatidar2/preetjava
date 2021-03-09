@@ -44,3 +44,4 @@ class smile extends Frame
         S.setTitle("SMILEY");
         S.setVisible(true);
     }
+}
